@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Terminal-Akore
 - 👀 I’m interested in data science and AI
-- 🌱 I’m currently learning MSC data Science and Artificial Intelligence
+- 🌱 I’m currently learning MSC data Science and Artificial Intelligence at University of Liverpool
 - 💞️ I’m looking to collaborate on any project related to data science
 - 📫 How to reach me on +233553899418
 - 😄 Pronouns: He
